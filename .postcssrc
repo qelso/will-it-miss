@@ -1,0 +1,7 @@
+{
+    "plugin": {
+        "postcss-preset-env": {
+            "stage": 0
+        }
+    }
+}
